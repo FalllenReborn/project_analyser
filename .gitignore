@@ -1,2 +1,4 @@
-organization_commits.json
-commit_analysis.txt
+generated_files/organization_commits.json
+generated_files/commit_analysis.txt
+generated_files/keyword_search_results.json
+generated_files/project_analysis.xlsm

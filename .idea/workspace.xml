@@ -5,15 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="437cfc53-3ab1-4467-80f4-332b81e8c539" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project_analyser.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commit_retriever.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators_ai_powered/ai_commit_report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators_commit_analysis/advanced_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators_commit_analysis/commit_retriever.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators_commit_analysis/create_xlsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators_commit_analysis/simple_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commit_retriever.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_analysis.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,21 +38,34 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2lBzvHeeYvoXxft3s90ZVVgOZjX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.advanced_search.executor": "Run",
+    "Python.ai_commit_report.executor": "Run",
     "Python.commit_retriever.executor": "Run",
+    "Python.create_xlsm.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.settings.executor": "Run",
     "Python.simple_analysis.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Seweryn/Documents/Projects/project_analyser/project_analyser"
+    "last_opened_file_path": "C:/Users/Seweryn/Documents/Projects/project_analyser/project_analyser",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Seweryn\Documents\Projects\project_analyser\project_analyser\generators_commit_analysis" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
